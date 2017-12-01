@@ -1,3 +1,6 @@
+A small app that filters Bixi bike share stations and displays the number of docks and available bikes at each station. Note: from December - April there is no data available, as the bike stations are removed in the off-season.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
